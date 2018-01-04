@@ -12,4 +12,5 @@ RUN apt-get update && \
                     vifm \
                     libx11-6 \
                     tcpdump \
+                    git \
                     hexedit -y --no-install-recommends
