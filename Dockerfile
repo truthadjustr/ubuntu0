@@ -7,6 +7,7 @@ RUN apt-get update && \
                     apt-transport-https \
                     sudo \
                     netcat \
+                    socat \
                     iputils-ping \
                     net-tools \
                     vifm \
