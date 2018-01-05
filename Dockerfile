@@ -14,4 +14,5 @@ RUN apt-get update && \
                     libx11-6 \
                     tcpdump \
                     git \
+                    file \
                     hexedit -y --no-install-recommends
