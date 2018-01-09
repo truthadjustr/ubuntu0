@@ -15,4 +15,5 @@ RUN apt-get update && \
                     tcpdump \
                     git \
                     file \
+                    xmlstarlet \
                     hexedit -y --no-install-recommends
