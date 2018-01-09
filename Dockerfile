@@ -16,4 +16,5 @@ RUN apt-get update && \
                     git \
                     file \
                     xmlstarlet \
+                    libxml2-utils \
                     hexedit -y --no-install-recommends
