@@ -18,4 +18,5 @@ RUN apt-get update && \
                     xmlstarlet \
                     libxml2-utils \
                     ca-certificates \
+                    iproute2 \
                     hexedit -y --no-install-recommends
