@@ -19,4 +19,5 @@ RUN apt-get update && \
                     libxml2-utils \
                     ca-certificates \
                     iproute2 \
+                    pciutils \
                     hexedit -y --no-install-recommends
