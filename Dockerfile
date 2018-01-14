@@ -20,4 +20,5 @@ RUN apt-get update && \
                     ca-certificates \
                     iproute2 \
                     pciutils \
+                    gettext-base \
                     hexedit -y --no-install-recommends
